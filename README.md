@@ -5,5 +5,5 @@ This project is written in this url.
 http://www.cl.ecei.tohoku.ac.jp/nlp100/
 
 * Environment
- * Python 3.4.3
+    * Python 3.4.3
 -
